@@ -1,11 +1,19 @@
 {
   "admob_active": true,
   "applovin_active": true,
+  "unity_active": true,
+  "ironsource_active": true,
   "native_id": "ca-app-pub-3940256099942544/2247696110",
   "inter_id": "ca-app-pub-3940256099942544/1033173712",
   "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
   "applovin_native_id": "xxxxxxxx",
   "applovin_inter_id": "xxxxxxxxxx",
   "applovin_rewarded_id": "xxxxxxxxx",
+  "unity_inter_id": "xxxxxxxx",
+  "unity_rewarded_id": "xxxxxxxxxx",
+  "unity_game_id": "xxxxxxxxx",
+  "ironsource_inter_id": "xxxxxxxx",
+  "ironsource_rewarded_id": "xxxxxxxxxx",
+  "unity_game_id": "xxxxxxxxx",
   "inter_count_admob": 2
 }
