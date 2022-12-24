@@ -1,48 +1,50 @@
 {
   "packs": [
     {
-      "identifier": "stickers1",
-      "country": "ma",
-      "animated": false,
-      "name": "Stickers Pack 1",
-      "publisher": "Akram",
-      "tray_image": "https://stickers.virmana.com/uploads/cache/tray_image/uploads/png/4114c1804cb0810b169b217cfdfc2e8a.png",
-      "publisher_email": "test@email.com",
+      "identifier": 512,
+      "name": "test",
+      "publisher": "test",
+      "tray_image_file": "https://stickers.virmana.com/uploads/cache/tray_image/uploads/png/cdcffbe00b76bccc5e19e42c9e2796c0.png",
+      "publisher_email": "",
       "publisher_website": "",
-      "privacy_link": "",
-      "license": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "premium": "false",
+      "animated": "false",
+      "whatsapp": "true",
+      "telegram": "false",
+      "signal": "false",
+      "signalurl": null,
+      "telegramurl": null,
+      "review": "false",
+      "trusted": "true",
+      "downloads": "4.83 K",
+      "size": "398 KB",
+      "created": "1 year ago",
+      "user": "HaSsan BouTannoura",
+      "userid": "4",
+      "userimage": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2273888605963581&height=200&width=200&ext=1625080620&hash=AeTHMmF6abp1K0Cjuww",
       "stickers": [
         {
-          "img": "https://stickercommunity.com/uploads/icon/1671806621hrm3k_icon.png"
+          "image_file_thum": "https://stickers.virmana.com/uploads/cache/sticker_image_thum/uploads/png/fe9fae566a778dda488a3eea72c35a06.png",
+          "image_file": "https://stickers.virmana.com/uploads/png/fe9fae566a778dda488a3eea72c35a06.png",
+          "emojis": [
+            "8J+YgA=="
+          ]
         },
         {
-          "img": "https://stickercommunity.com/uploads/icon/1671491493urqdo_icon.png"
+          "image_file_thum": "https://stickers.virmana.com/uploads/cache/sticker_image_thum/uploads/png/84a5e4a9ff0d8d50811adb99679201d4.png",
+          "image_file": "https://stickers.virmana.com/uploads/png/84a5e4a9ff0d8d50811adb99679201d4.png",
+          "emojis": [
+            "8J+YgA=="
+          ]
         },
         {
-          "img": "https://stickercommunity.com/uploads/icon/1671690376qjd8h_icon.png"
-        }
-      ]
-    },
-    {
-      "identifier": "stickers2",
-      "country": "ma",
-      "animated": true,
-      "name": "Stickers Pack 2",
-      "publisher": "Akram",
-      "tray_image": "https://stickers.virmana.com/uploads/cache/tray_image/uploads/png/c02e3bed44f32527acb432bc161d36fe.png",
-      "publisher_email": "test@email.com",
-      "publisher_website": "",
-      "privacy_link": "",
-      "license": "",
-      "stickers": [
-        {
-          "img": "https://stickers.virmana.com/uploads/webp/813bb88a31f0fe84b10c1fad5cd95988.webp"
-        },
-        {
-          "img": "https://stickers.virmana.com/uploads/webp/0a967026db0d6530300c28de7fbc6d03.webp"
-        },
-        {
-          "img": "https://stickers.virmana.com/uploads/webp/0d017e4de351cfbd32ce97dc74fdf166.webp"
+          "image_file_thum": "https://stickers.virmana.com/uploads/cache/sticker_image_thum/uploads/png/3b627de4bbe7f1c686a231d10ca0413e.png",
+          "image_file": "https://stickers.virmana.com/uploads/png/3b627de4bbe7f1c686a231d10ca0413e.png",
+          "emojis": [
+            "8J+YgA=="
+          ]
         }
       ]
     }
