@@ -10,6 +10,8 @@
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "animated": "false",
+      "country": "us",
+      "category": "Group1",
       "stickers": [
         {
           "image_file": "https://stickers.virmana.com/uploads/png/fe9fae566a778dda488a3eea72c35a06.png",
@@ -35,6 +37,8 @@
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "animated": "true",
+      "country": "br",
+      "category": "Group1",
       "stickers": [
         {
           "image_file": "https://stickers.virmana.com/uploads/webp/813bb88a31f0fe84b10c1fad5cd95988.webp",
@@ -60,6 +64,8 @@
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "animated": "false",
+      "country": "us",
+      "category": "Group2",
       "stickers": [
         {
           "image_file": "https://s3.getstickerpack.com/storage/uploads/sticker-pack/donsata-mdm-pack-1/sticker_1.png",
