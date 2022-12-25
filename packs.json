@@ -24,6 +24,31 @@
           "emojis": []
         }
       ]
+    },
+    {
+      "identifier": 513,
+      "name": "Shaun the sheep",
+      "publisher": "Akram",
+      "tray_image_file": "https://stickers.virmana.com/uploads/cache/tray_image/uploads/png/c02e3bed44f32527acb432bc161d36fe.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated": "true",
+      "stickers": [
+        {
+          "image_file": "https://stickers.virmana.com/uploads/webp/813bb88a31f0fe84b10c1fad5cd95988.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "https://stickers.virmana.com/uploads/webp/0a967026db0d6530300c28de7fbc6d03.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "https://stickers.virmana.com/uploads/webp/0d017e4de351cfbd32ce97dc74fdf166.webp",
+          "emojis": []
+        }
+      ]
     }
   ]
 }
