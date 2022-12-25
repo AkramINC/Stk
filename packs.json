@@ -9,42 +9,19 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "premium": "false",
       "animated": "false",
-      "whatsapp": "true",
-      "telegram": "false",
-      "signal": "false",
-      "signalurl": null,
-      "telegramurl": null,
-      "review": "false",
-      "trusted": "true",
-      "downloads": "4.83 K",
-      "size": "398 KB",
-      "created": "1 year ago",
-      "user": "HaSsan BouTannoura",
-      "userid": "4",
-      "userimage": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2273888605963581&height=200&width=200&ext=1625080620&hash=AeTHMmF6abp1K0Cjuww",
       "stickers": [
         {
-          "image_file_thum": "https://stickers.virmana.com/uploads/cache/sticker_image_thum/uploads/png/fe9fae566a778dda488a3eea72c35a06.png",
           "image_file": "https://stickers.virmana.com/uploads/png/fe9fae566a778dda488a3eea72c35a06.png",
-          "emojis": [
-            "8J+YgA=="
-          ]
+          "emojis": []
         },
         {
-          "image_file_thum": "https://stickers.virmana.com/uploads/cache/sticker_image_thum/uploads/png/84a5e4a9ff0d8d50811adb99679201d4.png",
           "image_file": "https://stickers.virmana.com/uploads/png/84a5e4a9ff0d8d50811adb99679201d4.png",
-          "emojis": [
-            "8J+YgA=="
-          ]
+          "emojis": []
         },
         {
-          "image_file_thum": "https://stickers.virmana.com/uploads/cache/sticker_image_thum/uploads/png/3b627de4bbe7f1c686a231d10ca0413e.png",
           "image_file": "https://stickers.virmana.com/uploads/png/3b627de4bbe7f1c686a231d10ca0413e.png",
-          "emojis": [
-            "8J+YgA=="
-          ]
+          "emojis": []
         }
       ]
     }
