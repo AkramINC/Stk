@@ -1,0 +1,63 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Category 1"
+    },
+    {
+      "id": 1,
+      "name": "Category 2"
+    },
+    {
+      "id": 2,
+      "name": "Simple"
+    }
+  ],
+  "templates": [
+    {
+      "category_id": 0,
+      "data": [
+        {
+          "img": "https://s3.getstickerpack.com/storage/uploads/sticker-pack/amochiology/sticker_13.png",
+          "text": "Yoo!",
+          "text_location": 0
+        },
+        {
+          "img": "https://s3.getstickerpack.com/storage/uploads/sticker-pack/amochiology/sticker_14.png",
+          "text": "Thanks",
+          "text_location": 1
+        }
+      ]
+    },
+    {
+      "category_id": 1,
+      "data": [
+        {
+          "img": "https://s3.getstickerpack.com/storage/uploads/sticker-pack/ios-15-emojis/sticker_3.png",
+          "text": "Hello",
+          "text_location": 0
+        },
+        {
+          "img": "https://s3.getstickerpack.com/storage/uploads/sticker-pack/ios-15-emojis/sticker_13.png",
+          "text": "HaHA",
+          "text_location": 1
+        }
+      ]
+    },
+    {
+      "category_id": 2,
+      "data": [
+        {
+          "img": "https://s3.getstickerpack.com/storage/uploads/sticker-pack/donsata-mdm-pack-1/sticker_14.png",
+          "text": "Hello",
+          "text_location": 0
+        },
+        {
+          "img": "https://s3.getstickerpack.com/storage/uploads/sticker-pack/donsata-mdm-pack-1/sticker_17.png",
+          "text": "Message",
+          "text_location": 1
+        }
+      ]
+    }
+  ]
+}
