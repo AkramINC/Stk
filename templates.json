@@ -20,12 +20,14 @@
         {
           "img": "https://s3.getstickerpack.com/storage/uploads/sticker-pack/amochiology/sticker_13.png",
           "text": "Yoo!",
-          "text_location": 0
+          "text_location": 0,
+          "text_color": "#FFC107"
         },
         {
           "img": "https://s3.getstickerpack.com/storage/uploads/sticker-pack/amochiology/sticker_14.png",
           "text": "Thanks",
-          "text_location": 1
+          "text_location": 1,
+          "text_color": "#FF5722"
         }
       ]
     },
@@ -35,12 +37,14 @@
         {
           "img": "https://s3.getstickerpack.com/storage/uploads/sticker-pack/ios-15-emojis/sticker_3.png",
           "text": "Hello",
-          "text_location": 0
+          "text_location": 0,
+          "text_color": "#FF9800"
         },
         {
           "img": "https://s3.getstickerpack.com/storage/uploads/sticker-pack/ios-15-emojis/sticker_13.png",
           "text": "HaHA",
-          "text_location": 1
+          "text_location": 1,
+          "text_color": "#2196F3"
         }
       ]
     },
@@ -50,12 +54,14 @@
         {
           "img": "https://s3.getstickerpack.com/storage/uploads/sticker-pack/donsata-mdm-pack-1/sticker_14.png",
           "text": "Hello",
-          "text_location": 0
+          "text_location": 0,
+          "text_color": "#00AC07"
         },
         {
           "img": "https://s3.getstickerpack.com/storage/uploads/sticker-pack/donsata-mdm-pack-1/sticker_17.png",
           "text": "Message",
-          "text_location": 1
+          "text_location": 1,
+          "text_color": "#2196F3"
         }
       ]
     }
