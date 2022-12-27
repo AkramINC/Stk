@@ -1,0 +1,31 @@
+{
+  "data": {
+    "inter_sticker_pack": "ca-app-pub-3940256099942544/1033173712",
+    "inter_sticker_pack_active": true,
+    "inter_sticker_pack_clicks": 3,
+    "rewarded_sticker_add_plus": "ca-app-pub-3940256099942544/5224354917",
+    "rewarded_sticker_add_plus_active": true,
+    "rewarded_sticker_add_plus_clicks": 3,
+    "rewarded_sticker_add": "ca-app-pub-3940256099942544/5224354917",
+    "rewarded_sticker_add_active": true,
+    "rewarded_sticker_add_clicks": 3,
+    "banner_home": "ca-app-pub-3940256099942544/6300978111",
+    "banner_home_active": true,
+    "banner_details": "ca-app-pub-3940256099942544/6300978111",
+    "banner_details_active": true,
+    "banner_my_stickers": "ca-app-pub-3940256099942544/6300978111",
+    "banner_my_stickers_active": true,
+    "banner_categories": "ca-app-pub-3940256099942544/6300978111",
+    "banner_categories_active": true,
+    "banner_category": "ca-app-pub-3940256099942544/6300978111",
+    "banner_category_active": true,
+    "banner_create": "ca-app-pub-3940256099942544/6300978111",
+    "banner_create_active": true,
+    "banner_templates": "ca-app-pub-3940256099942544/6300978111",
+    "banner_templates_active": true,
+    "banner_edit_sticker": "ca-app-pub-3940256099942544/6300978111",
+    "banner_edit_sticker_active": true,
+    "banner_exit": "ca-app-pub-3940256099942544/6300978111",
+    "banner_exit_active": true
+  }
+}
